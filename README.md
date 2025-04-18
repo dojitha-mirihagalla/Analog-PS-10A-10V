@@ -41,7 +41,7 @@ A robust 10V, 10A linear power supply built with discrete components.
 ---
 
 ## Physical Implementation
-<img src="Figures/Physical.jpg" alt="Block Diagram" style="width:40%; height:auto;">
+<img src="Figures/physical.jpg" alt="Block Diagram" style="width:40%; height:auto;">
 
 ---
 ## Team
