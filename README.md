@@ -30,6 +30,15 @@ A robust 10V, 10A linear power supply built with discrete components.
 
 ---
 
+## PCB Design
+
+
+---
+## SolidWorks Enclosure Design
+
+
+---
+
 ## Team
  
 - Dojitha Mirihagalla – Component selection and cct design, PCB Design, soldering, diagnosis.
