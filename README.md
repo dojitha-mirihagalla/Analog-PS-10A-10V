@@ -16,7 +16,7 @@ A robust 10V, 10A linear power supply built with discrete components.
 
 ## Block Diagram
 
-![Block Diagram](Figures/Block diagram.jpg)
+![Block Diagram](Figures/BlockDiagram.jpg)
 
 ---
 
