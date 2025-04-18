@@ -31,14 +31,17 @@ A robust 10V, 10A linear power supply built with discrete components.
 ---
 
 ## PCB Design
-<img src="Figures/BlockDiagram.jpg" alt="Block Diagram" style="width:40%; height:auto;">
+<img src="Figures/PCBs.jpg" alt="Block Diagram" style="width:40%; height:auto;">
 
 ---
+
 ## SolidWorks Enclosure Design
-<img src="Figures/PCBs.jpg" alt="Block Diagram" style="width:50%; height:auto;">
+<img src="Figures/Solidworks.jpg" alt="Block Diagram" style="width:50%; height:auto;">
+
 ---
+
 ## Physical Implementation
-<img src="Figures/BlockDiagram.jpg" alt="Block Diagram" style="width:40%; height:auto;">
+<img src="Figures/Physical.jpg" alt="Block Diagram" style="width:40%; height:auto;">
 
 ---
 ## Team
